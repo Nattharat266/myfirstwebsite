@@ -1,0 +1,14 @@
+body{
+    background-color: skyblue;
+}
+h1{
+    size: 20px;
+}
+
+.muchroom{
+    background-color: blue;
+
+}
+.circular{
+    border-radius: 100%;
+}
